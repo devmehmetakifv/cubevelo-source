@@ -1,0 +1,109 @@
+Information for Project Groups and Project Proposal
+1. Your projects can consist of groups of 3-4-5 members. There is no distinction between Computer
+Engineering and Software Engineering in the formation of groups.
+2. When determining project groups, you must specify the friend who will upload the relevant
+documents.
+3. Send your project groups as a txt file to the area I will open on Blackboard. When creating this file,
+each student's name-surname-school number registered in OIS should be included. The student
+specified in Item 2 should send the txt file containing the information of students in the project group
+to Blackboard.
+4. When writing your group project proposal, you must give the software description in detail. Two
+sample software descriptions are given in the Project Examples below. Your proposal should be as
+detailed as these project descriptions. (Important: Of course, instead of using “should”, you should
+use “will be done”, “will be executed” etc.).
+5. After creating your proposal, you must upload it as a pdf file to the area I will open on Blackboard
+for evaluation. The student specified in Item 2 should do this. Proposals sent in any other way will not
+be considered.
+Rules to be Followed for the Project
+1. The main goal in your project is to write the Software Design Document and its compliance with the
+topics covered in the course. Therefore, you need to determine your project at a competency level
+that can write this document.
+2. Your project design document must explain the Software Architectural structure of the project you
+developed and which Software Design Pattern it conforms to. You need to pay attention to this point
+in the project you aim to do.
+3. You must include the design diagrams of the project you developed in your project design
+document. There should be at least one Class Diagram, Use Case Diagram, Activity Diagram, Sequence
+Diagram, and State Diagram in your project design document. The number of diagrams can be
+increased according to the size of the design.
+Note: Documentation obtained from systems that develop documents based on LLM (ChatGPT, etc.)
+must be filtered for information and only project-specific information should be taken. Unnecessary
+information unrelated to the project in such obtained documents and information that unnecessarily
+extends the report will negatively affect the project grading.
+4. In your project design document, you must analyze the software design patterns (Software Pattern)
+you used in the project you developed with UML diagrams. This analysis must be detailed. In this
+analysis, you must use at least one Creational Pattern, Structural Pattern, and Behavioral Pattern. The
+number of design pattern analyses to be included in the document can be increased according to the
+size of the design. Note: This item is the most important item for your project and if not done, the
+project grading will be highly negatively affected.
+5. When adding information about design patterns, you must include the structure of the design
+pattern and the related UML diagrams (especially Class Diagram) in the project design document.
+6. You can use any programming language that supports object-oriented design that you deem
+appropriate in your project.
+7. You can determine the necessary concepts for project development (example: Using Artificial
+Intelligence, Developing applications for Mobile Systems, Location-Based application, Developing
+applications for the Internet of Things, etc.) as you wish. However, it would be good to pay attention
+to this point: Your development time for the project will be limited and the project design document
+you produce will mostly be important.
+Regarding Previously Done Projects
+1. You can use your previously done projects.
+2. You may need to renew the software design of your previous projects according to the rules written
+above – refactoring.
+3. Especially in accordance with software development patterns, you may need to refactor the
+software design of your previous projects.
+4. Your previous projects need to be of a size suitable for the software design document and the
+required features or you may need to add software features to fit that size.
+5. You may need to renew your previous projects to be suitable for object-oriented programming and
+design.
+Project Examples
+Here are 2 examples. These are only examples and you can find different project ideas. You should
+turn your project ideas into proposals in a detailed manner like the given two examples.
+1. E-commerce site with medium or full features: The e-commerce site should have all the features
+below and be fully functional in terms of user experience.
+- Maintaining the database related to the products to be sold.
+- You need to determine at least 5 products.
+- Customer Interface: Customers should be able to select products, add them to the cart, simulate
+payment through the cart (real payment is not necessary, it can be a simulation). Payment records
+should be kept, and invoicing should be done. In the invoicing, there will be a proforma invoice display
+and an actual invoice display.
+- If there are products in the cart and the user leaves without making a payment, the products in
+the cart should be shown when the user returns.
+- Products in the cart should be displayed, and the user should be able to remove a product from
+the cart if desired.
+- There should be user registration and updating interfaces.
+- There should be product adding and updating interfaces. At least 3 types of reports should be
+obtained from the system.
+- Discount calculation or different features related to product pricing should be added.
+2. Retro Games, Games
+- The basic logic of the game should be developed using a 2D graphical interface.
+- The game system should be developed to a level where one player can play and act intelligently
+accordingly.
+- In these types of games, there should be at least 5 levels and it should be progressive. The game
+should be made more difficult as it progresses.
+- The player should register before starting the game and enter the game with the login logic.
+- The player should be able to save the game at any time and continue the saved game from the
+remaining flow.
+- There should be at least 3 themes that the player can choose for the game. The game should start
+with the chosen theme. The theme choice should be permanently saved.
+- Depending on the type of game, the feature to add maps to the game can be added. (In games like
+90 Tank)
+- The player's score at the end of the game should be kept with a scoreboard.
+- The player should be able to see the scoreboard at any time.
+- You don’t need to spend too much time on graphical design.
+- Example games: Mario, 90 Tank, Bomberman, Pac-man, Road fighter, Battleship (Amiral Battı)
+- If you want to develop games like Tetris, you must consult me. The above features must be added
+in Tetris-like games.
+Note: If an automation application is to be developed other than the given project topics, it must be
+functional in terms of user experience. Automation should have at least 10 functional features.
+Automation should definitely keep the data to be entered permanently and be dynamic. Anti-pattern
+should not be used in these systems and hardcoded data should not be kept. The grading of
+automation systems will be stricter compared to other project topics. Again, the project to be done
+should meet all the rules defined above.
+Example of a functional function for automation:
+If a library automation is to be developed, adding, changing, and deleting relevant books in the system
+is considered a single functional function. If such an automation is to be done, at least 10 functions
+like this need to be defined in the project.
+Project Grading
+1. Determination of Project Groups on Time: 5 points
+2. Timely Submission of the Project Proposal and Content of the Text: 10 Points
+3. Project Demo: 45 Points
+4. Project Design Document: 40 Points
